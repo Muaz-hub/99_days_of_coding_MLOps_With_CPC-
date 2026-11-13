@@ -6,3 +6,5 @@ the data is an object type data so I need to think what should I do now .
 in day 03 I have taken a sports dataset and tried to EDA the dataset but I have encountered that when some data are numeric then the previous problem that I have faced
 was not showing histogram of the data will not show , so I might think to solve this problem , should I do something changing the type of the data for this or not?
 
+in day 04 I have taken a music dataset and tried to EDA till histogram and I have found that: If the data is completely numeric then the hist plots are more and for
+this I had to change the figure size to fix the unclear and overlapping plots .
