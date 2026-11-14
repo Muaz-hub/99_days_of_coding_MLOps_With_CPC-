@@ -8,3 +8,7 @@ was not showing histogram of the data will not show , so I might think to solve 
 
 in day 04 I have taken a music dataset and tried to EDA till histogram and I have found that: If the data is completely numeric then the hist plots are more and for
 this I had to change the figure size to fix the unclear and overlapping plots .
+
+
+in day 04 I have used the same data but the larger version of this data and I have found here the length column hold a unique value which means all the music dataset is 
+for a single length data's variations I have seen . 
