@@ -10,5 +10,8 @@ in day 04 I have taken a music dataset and tried to EDA till histogram and I hav
 this I had to change the figure size to fix the unclear and overlapping plots .
 
 
-in day 04 I have used the same data but the larger version of this data and I have found here the length column hold a unique value which means all the music dataset is 
-for a single length data's variations I have seen . 
+in day 05 I have used the same data as the previous daybut the larger version of this data and I have found here the length column hold a unique value which means all 
+the music dataset is for a single length data's variations I have seen . 
+
+
+in day 06 I have used a Robots Inverse kinematics dataset and did the Basic EDA creating histograms of the whole dataset and analyzes the relations to its columns .
