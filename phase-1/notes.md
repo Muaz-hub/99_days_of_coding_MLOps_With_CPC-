@@ -15,3 +15,6 @@ the music dataset is for a single length data's variations I have seen .
 
 
 in day 06 I have used a Robots Inverse kinematics dataset and did the Basic EDA creating histograms of the whole dataset and analyzes the relations to its columns .
+
+
+in day 07 I have used a student dataset and did the Basic EDA creating histograms of the whole dataset and analyzes the relations to its columns .
