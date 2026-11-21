@@ -34,3 +34,6 @@ in day 10 I have used a car dataset and did the basic EDA replacing the Null val
 
 
 in day 11 I have used a breast cancer dataset and did the basic EDA replacing the Null values with "unknown" for object type data and "mean" for int64 or float32 type data . But there was no null values and most of the columns were float32 type data.  I also find the correlation graph with 'diagnosis' column in x-axis .
+
+
+in day 12 I have used an Insurance dataset and did the basic EDA checked the Null values but did not find any . And then analyzed the correlation of 'smoker' column in x-axis and with other columns in hue .
