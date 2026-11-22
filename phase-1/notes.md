@@ -37,3 +37,6 @@ in day 11 I have used a breast cancer dataset and did the basic EDA replacing th
 
 
 in day 12 I have used an Insurance dataset and did the basic EDA checked the Null values but did not find any . And then analyzed the correlation of 'smoker' column in x-axis and with other columns in hue .
+
+
+in day 13 I have used a Pharmacy Sales dataset and did the basic EDA checked the Null values but did not find any . And then analyzed the correlation of 'UnitsSold' column in x-axis and with other columns in hue . Found a relation that the products which ones are non PromoFlagged sold most than PromoFlagged products .
