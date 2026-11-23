@@ -40,3 +40,6 @@ in day 12 I have used an Insurance dataset and did the basic EDA checked the Nul
 
 
 in day 13 I have used a Pharmacy Sales dataset and did the basic EDA checked the Null values but did not find any . And then analyzed the correlation of 'UnitsSold' column in x-axis and with other columns in hue . Found a relation that the products which ones are non PromoFlagged sold most than PromoFlagged products .
+
+
+in day 14 I have used a retail Sales dataset and did the basic EDA checked the Null values but did not find any . And then analyzed the correlation of 'Product Category' column in x-axis and with other columns in hue with count .
