@@ -43,3 +43,9 @@ in day 13 I have used a Pharmacy Sales dataset and did the basic EDA checked the
 
 
 in day 14 I have used a retail Sales dataset and did the basic EDA checked the Null values but did not find any . And then analyzed the correlation of 'Product Category' column in x-axis and with other columns in hue with count .
+
+
+in day 15 I have used a heart disease dataset and did the basic EDA replacing the Null values with "unknown" for object type data and "mean" for int64 or float32 type data . I also find the correlation graph with 'Heart Disease Status' column in x-axis with other columns in hue .
+
+
+in day 16 I have used a Hostel dataset of Japan and did the basic EDA replacing the Null values with "unknown" for object type data and "mean" for int64 or float32 type data . I also find the correlation graph with 'rating.band' column in x-axis with other columns in hue .
