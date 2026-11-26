@@ -49,3 +49,6 @@ in day 15 I have used a heart disease dataset and did the basic EDA replacing th
 
 
 in day 16 I have used a Hostel dataset of Japan and did the basic EDA replacing the Null values with "unknown" for object type data and "mean" for int64 or float32 type data . I also find the correlation graph with 'rating.band' column in x-axis with other columns in hue .
+
+
+in day 17 I have used a education dataset and did the basic EDA replacing the Null values with "unknown" for object type data and "mean" for int64 or float32 type data . I also find the correlation graph with 'c_codes' column in x-axis with other columns in hue .
