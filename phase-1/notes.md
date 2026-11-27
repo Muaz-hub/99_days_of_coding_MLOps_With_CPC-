@@ -52,3 +52,6 @@ in day 16 I have used a Hostel dataset of Japan and did the basic EDA replacing 
 
 
 in day 17 I have used a education dataset and did the basic EDA replacing the Null values with "unknown" for object type data and "mean" for int64 or float32 type data . I also find the correlation graph with 'c_codes' column in x-axis with other columns in hue .
+
+
+in day 18 I have done the EDA for a sonar sensor dataset and found no null values , no duplicate values and outliers have detected for the 60 features except the target. After encoding the label I have found that the 3rd,14th to 17th and the 31th columns have most correlation with the target column as per correlation matrix graph. At last I can say that in this dataset all the columns of features are not normal instead all of these are right skewed data on the Kernel Density Estimate plot .
