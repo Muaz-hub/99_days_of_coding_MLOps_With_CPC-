@@ -55,3 +55,6 @@ in day 17 I have used a education dataset and did the basic EDA replacing the Nu
 
 
 in day 18 I have done the EDA for a sonar sensor dataset and found no null values , no duplicate values and outliers have detected for the 60 features except the target. After encoding the label I have found that the 3rd,14th to 17th and the 31th columns have most correlation with the target column as per correlation matrix graph. At last I can say that in this dataset all the columns of features are not normal instead all of these are right skewed data on the Kernel Density Estimate plot .
+
+
+in day 19 I have done the EDA for a marketing dataset and found no null values , 184 duplicate values and outliers have detected for the features i.e. 'MntTotal','MntSweetProducts','MntFishProducts','MntMeatProducts','MntFruits','MntWines','Teenhome','Kidhome' etc. All the outliers detected from the Kernel Density Estimator graph and found them Right Skewed . At last I can say that the most correlated features with the target column-'AcceptedCmpOverall' are 'MntWines','AcceptedCmp1','AcceptedCmp4','AcceptedCmp5' .
